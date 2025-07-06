@@ -1,0 +1,16 @@
+langchain
+langchain-community
+langchain-openai
+chromadb
+openai
+pypdf2
+python-docx
+python-pptx
+openpyxl
+pandas
+pillow
+pytesseract
+pymupdf
+tqdm
+flask
+flask-cors
